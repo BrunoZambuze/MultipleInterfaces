@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\bin\Debug\net7.0\HerancaMultipla.exe
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\bin\Debug\net7.0\HerancaMultipla.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\bin\Debug\net7.0\HerancaMultipla.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\bin\Debug\net7.0\HerancaMultipla.dll
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\bin\Debug\net7.0\HerancaMultipla.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\obj\Debug\net7.0\HerancaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\obj\Debug\net7.0\HerancaMultipla.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\obj\Debug\net7.0\HerancaMultipla.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\obj\Debug\net7.0\HerancaMultipla.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\obj\Debug\net7.0\HerancaMultipla.dll
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\obj\Debug\net7.0\refint\HerancaMultipla.dll
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\obj\Debug\net7.0\HerancaMultipla.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\obj\Debug\net7.0\HerancaMultipla.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\HerancaMultipla\HerancaMultipla\obj\Debug\net7.0\ref\HerancaMultipla.dll
